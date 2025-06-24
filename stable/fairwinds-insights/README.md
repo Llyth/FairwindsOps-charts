@@ -344,3 +344,4 @@ See [insights.docs.fairwinds.com](https://insights.docs.fairwinds.com/technical-
 | temporal.server.additionalVolumeMounts[0].name | string | `"secret-with-certs"` |  |
 | temporal.server.additionalVolumeMounts[0].mountPath | string | `"/etc/temporal/tls"` |  |
 | temporal.server.additionalVolumeMounts[0].readOnly | bool | `true` |  |
+| extraManifests | list | `[]` | A list of extra manifests to be installed with this chart. This is useful for installing additional resources that are not part of the chart |
