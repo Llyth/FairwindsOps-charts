@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.12.0
+* added `extraManifests` for extra resources deployment
+
 ## 1.11.1
 * Bumped admission
 
