@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.1.0
+* added `extraManifests` for extra resources deployment
+
 ## 4.0.4
 * Fix temporal default postgres host
 
